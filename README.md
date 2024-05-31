@@ -4,7 +4,7 @@ Hi 👋 My name is Vishal Ranpariya
 Senior Technical Account Manager
 --------------------------------
 
-Experienced Technical Account Manager 🖥️ Helping clients achieve their goals through innovative solutions, 🌟 Specializing in delivering exceptional service and driving business growth. Ready to tackle any challenges. Providing top-notch technical support and building strong client relationships. Reach out to learn more! #BusinessGrowth #ExceptionalService #ProblemSolver #TechAccountManager #ClientSuccess #InnovativeSolutions
+Experienced Technical Account Manager 🖥️ Helping clients achieve their goals through innovative solutions, 🌟 Specializing in delivering exceptional service and driving business growth. Ready to tackle any challenges. 💼 Providing top-notch technical support and building strong client relationships. Reach out to learn more! #BusinessGrowth #ExceptionalService #ProblemSolver #TechAccountManager #ClientSuccess #InnovativeSolutions
 
 *   🌍  I'm based in Ahmedabad
 *   ✉️  You can contact me at [vishalranpariya@gmail.com](mailto:vishalranpariya@gmail.com)
