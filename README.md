@@ -16,7 +16,7 @@ Experienced Technical Account Manager 🖥️ Helping clients achieve their goal
                   ### Socials
                   
                   
-                <p align="left">
+  <p align="left">
                       <a href="https://www.facebook.com/vishal.a.ranpariya" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
